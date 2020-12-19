@@ -1,3 +1,26 @@
+/* Styles from http://advert.performax.cz/milos/task-junior/styles.css */
+html {font-family: 'Roboto', sans-serif; font-size: 16px;}
+h1 {color: #f5a211; letter-spacing: 2px; margin: 0 0 10px; font-size: 1.8em;}
+p {color: #333; margin: 0;}
+a {color: #f5a211}
+
+.task-assignment {display: flex; flex-direction: row; max-width: 1080px;margin: 0 auto;flex-direction: column; margin-bottom: 20px;}
+.task-assignment h1 {text-align: center;}
+.task-assignment p {padding: 10px;}
+.article {display: flex; flex-direction: row; padding: 10px 0; border-bottom: 1px solid #ededed;}
+.main-wrap {display: flex; flex-direction: row; max-width: 1080px;margin: 0 auto 20px;}
+.content-wrap {width: 100%; min-width: 640px; background: #fff; margin: 0 auto; box-shadow:0px 0px 3px 0px #333; flex: 3; margin-right: 20px;}
+.side-wrap {width: 100%; min-width: 300px; height: 600px; background: #fff; margin: 0 auto; box-shadow:0px 0px 3px 0px #333; flex: 1; display: flex; justify-content: center;align-items: center;}
+.bottom-wrap {max-width: 1080px;margin: 0 auto; display: flex; align-items: center; box-shadow:0px 0px 3px 0px #333; padding: 10px 0;}
+.article-list-bottom {display: flex; flex-direction: row; }
+.article-list {padding: 10px;}
+.article-list .img-wrap {background: #ededed; height: 150px; flex:1; margin-right: 10px; border: 1px solid #f5a211;}
+.article-bottom {display: flex; align-items: center; justify-content: center;flex-direction: column;}
+.text-wrap {flex: 2;}
+.bottom-wrap .img-wrap {height: 150px; width: 100%; background: #ededed;border: 1px solid #f5a211; margin-bottom: 10px;}
+.article-bottom .img-wrap, .article-bottom .text-wrap {width: 95%;}
+
+/* My styles */
 :root {
 	--color-primary: #f5a211;
 }
