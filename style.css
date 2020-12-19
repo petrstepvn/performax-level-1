@@ -1,0 +1,51 @@
+:root {
+	--color-primary: #f5a211;
+}
+
+.advert .img-wrap {
+	background: var(--color-primary);
+}
+
+.article-list .advert-body {
+	display: flex;
+}
+
+.advert-link {
+	flex-shrink: 0;
+	position: relative;
+	width: 2rem;
+	height: 2rem;
+	align-self: center;
+}
+
+.advert-link::after {
+	content: '';
+	box-sizing: border-box;
+	position: absolute;
+	margin-left: -25%;
+	width: 100%;
+	height: 100%;
+	border-bottom: 0.2em solid;
+	border-right: 0.2em solid;
+	transform: rotate(-45deg);
+	color: var(--color-primary);
+}
+
+.side-wrap {
+	position: sticky;
+	top: 0;
+}
+
+.side-wrap .article {
+	flex-direction: column;
+	border: 0;
+}
+
+.side-wrap .article > * {
+	flex: initial;
+}
+
+.side-wrap .img-wrap {
+	height: 300px;
+	margin: 0;
+}
