@@ -1,11 +1,13 @@
-Zadání úkolu
+DEMO: https://petrstepvn.github.io/performax-level-1/
 
-1. Nakódujte reklamní jednotky podle grafického návrhu.CSS styly nezapisujte inline. Snažte se nepoužívat floatování, ale použijte tøeba flexbox. Zachovejte fonty a barvy, jako jsou použity ve zbytku dokumentu.
-2. Prostor pro Váš kód je vymezen pomocí komentáøe v kódu tohoto dokumentu (pøed zavíracím tagem "body" souboru task.html). 
-3. Šipky u reklamních jednotek v hlavním výpisù èlánkù nakreslete pomocí CSS s využitím pseudo elemetu (::before, ::after)
-4. Pomocí JavaScriptu Vámi vytvoøené reklamní jednotky umístìte na správné pozice v HTML dokumentu tak, jak je vidìt v grafickém návrhu.
-5. Udìlejte pravý sloupec (class="side-wrap") sticky, aby byl pøi scrollování pøilepený k horní èásti obrazovky.
-6. Kvùli správné funkènosti pracujte prosím s vypnutým Adblockem a pøipojeni k internetu
-7. Doporuèuji prostudovat si základy CSS a JS napøíklad z následujících zdrojù:
+Zadï¿½nï¿½ ï¿½kolu
+
+1. Nakï¿½dujte reklamnï¿½ jednotky podle grafickï¿½ho nï¿½vrhu.CSS styly nezapisujte inline. Snaï¿½te se nepouï¿½ï¿½vat floatovï¿½nï¿½, ale pouï¿½ijte tï¿½eba flexbox. Zachovejte fonty a barvy, jako jsou pouï¿½ity ve zbytku dokumentu.
+2. Prostor pro Vï¿½ kï¿½d je vymezen pomocï¿½ komentï¿½ï¿½e v kï¿½du tohoto dokumentu (pï¿½ed zavï¿½racï¿½m tagem "body" souboru task.html). 
+3. ï¿½ipky u reklamnï¿½ch jednotek v hlavnï¿½m vï¿½pisï¿½ ï¿½lï¿½nkï¿½ nakreslete pomocï¿½ CSS s vyuï¿½itï¿½m pseudo elemetu (::before, ::after)
+4. Pomocï¿½ JavaScriptu Vï¿½mi vytvoï¿½enï¿½ reklamnï¿½ jednotky umï¿½stï¿½te na sprï¿½vnï¿½ pozice v HTML dokumentu tak, jak je vidï¿½t v grafickï¿½m nï¿½vrhu.
+5. Udï¿½lejte pravï¿½ sloupec (class="side-wrap") sticky, aby byl pï¿½i scrollovï¿½nï¿½ pï¿½ilepenï¿½ k hornï¿½ ï¿½ï¿½sti obrazovky.
+6. Kvï¿½li sprï¿½vnï¿½ funkï¿½nosti pracujte prosï¿½m s vypnutï¿½m Adblockem a pï¿½ipojeni k internetu
+7. Doporuï¿½uji prostudovat si zï¿½klady CSS a JS napï¿½ï¿½klad z nï¿½sledujï¿½cï¿½ch zdrojï¿½:
 				CSS: https://www.w3schools.com/css/default.asp" 
 				JS: https://www.w3schools.com/js/default.asp"  
